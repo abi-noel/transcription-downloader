@@ -34,7 +34,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'com.transcriptionDownloader.App'
+    mainClass = 'com.transcriptiondownloader.TranscriptionDownloader'
 }
 
 tasks.named('test') {
