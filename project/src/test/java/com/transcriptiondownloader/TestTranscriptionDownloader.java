@@ -7,8 +7,5 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class TestTranscriptionDownloader {
-    @Test void appHasAGreeting() {
-        TranscriptionDownloader classUnderTest = new TranscriptionDownloader();
-        assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
-    }
+    
 }
